@@ -1,0 +1,24 @@
+PODS:
+  - JWTDecode (3.0.0)
+  - SnapKit (5.6.0)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - JWTDecode
+  - SnapKit
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - JWTDecode
+    - SnapKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  JWTDecode: 82480a7173f8a811954e7e14a2b59f688ca4222a
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 136573cb8cc44de24f01a42f0f62a398cc09178f
+
+COCOAPODS: 1.11.3
